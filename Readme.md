@@ -2,6 +2,11 @@
 
 ### Install
 ```
+npm install
+```
+or
+
+```
 npm install @vitalets/google-translate-api
 ```
 
