@@ -1,0 +1,27 @@
+{
+  "name": "vitalets-google-translate-api-demo",
+  "version": "1.0.0",
+  "description": "```\r npm install @vitalets/google-translate-api\r ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemaker2015/vitalets-google-translate-api-demo.git"
+  },
+  "keywords": [
+    "google",
+    "translate"
+  ],
+  "author": "Vishnu Sivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemaker2015/vitalets-google-translate-api-demo/issues"
+  },
+  "homepage": "https://github.com/codemaker2015/vitalets-google-translate-api-demo#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0"
+  }
+}
